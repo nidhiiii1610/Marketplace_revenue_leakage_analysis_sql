@@ -1,0 +1,7 @@
+payment_method,fee_percentage,settlement_days
+UPI,1.2,1
+CARD,2.1,2
+COD,3.5,5
+WALLET,2,1
+NETBANKING,1.6,2
+PAYLATER,2.8,
